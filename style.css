@@ -41,6 +41,15 @@ body {
     justify-content: space-between;
     gap: 50px;
 }
+.first-button{
+    color: white;
+    font-size: 18px;
+    background-color: #3882f6;
+    border: none;
+    border-radius: 10px;
+    height: fit-content;
+    padding: 8px 25px;
+}
 
 .lower-header-left {
     flex: 1;
@@ -136,6 +145,8 @@ img {
     height: fit-content;
     padding: 8px 25px;
 }
+
+
 footer {
     background-color: #1F2937;
     text-align: center;
